@@ -12,7 +12,7 @@ Versión para tablet:
 
 Versión para móvil:
 
-![imagen](assets/screenshots/tablet-challenge.png)
+![imagen](assets/screenshots/mobile-challenge.png)
 
 
 ## Herramientas utilizadas:
